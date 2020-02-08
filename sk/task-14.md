@@ -1,6 +1,6 @@
 Táto úloha poskytuje cvičenie pre základnú vlastnosť zvyšku, ktorá sa používa v aritmetike - pozostávajúca zo
 zvyšku sčítania a násobenia. Táto dôležitá vlastnosť je často používaná pre kontrolu výsledkov z výpočtov,
-v kompetetívnom programovaní, vo výpočte kontrolných súčtov a najmä v šifrovaní.
+v kompetetívnom programovaní, vo výpočte kontrolných súčtov a najmä v šifrovaní. 
 Viac (po anglicky) ohľadne modulárnej aritmetiky [v tomto odkaze][modar].
 
 [modar]: ../wiki/modular-arithmetic
