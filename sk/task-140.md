@@ -1,5 +1,5 @@
 *Tento problém sa ku mne dostal cez kolegu na fóre - mal ho na interview pre pozíciu "Ruby-on-Rails" 
-web-vývojára a bol trošku zmätený.*
+web-vývojára a bol trošku zmätený.* 
 
 Asi si spomínate na úlohu so zátvorkami, [Matching Brackets](./matching-brackets). Táto je tiež so zátvorkami, akurát
 jedného typu - povedzme, že okrúhle zátvorky.
